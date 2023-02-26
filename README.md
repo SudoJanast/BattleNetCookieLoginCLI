@@ -1,3 +1,3 @@
 # BattleNetCookieLoginCLI
 
-Usage : ./BattleNetCookieLoginCLI.exe <BattleNetAuthCookie>
+Usage : `BattleNetCookieLoginCLI.exe <BattleNetAuthCookie>`
